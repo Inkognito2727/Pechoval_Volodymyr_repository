@@ -1,5 +1,0 @@
-﻿  Plant.c
-  Plant_test.c
-C:\Users\Admin\source\repos\C_project\Plant_test.c(30,11): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "float *"
-  Создание кода...
-  C_project.vcxproj -> C:\Users\Admin\source\repos\CPP_and_C\Debug\C_project.exe
